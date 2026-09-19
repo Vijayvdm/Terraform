@@ -1,6 +1,6 @@
 aws_region                = "ap-south-1"
-aws_access_key            = "AKIA2PPV7MQKUQZ3QNHL"
-aws_secret_key            = "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"
+aws_access_key            = ""
+aws_secret_key            = ""
 vpc_name                  = "dev-vpc"
 vpc_cidr                  = "10.0.0.0/16"
 environment               = "dev"
